@@ -36,7 +36,7 @@ Download the zip file for this project and place it somewhere on your computer a
 pipenv shell
 pipenv install
 
-python -m ipykernel install --user --name=neural-network
+python3 -m ipykernel install --user --name=neural-network
 
 jupyter notebook
 ```
