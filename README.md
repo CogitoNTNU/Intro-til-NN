@@ -19,7 +19,7 @@ To see if you have installed it correctly.
 You will also need to have pipenv on your machine. To get this open a terminal and run
 
 ```
-python -m pip install pipenv
+python3 -m pip install pipenv
 ```
 
 This will install the pipenv package on your computer. On windows you might also have to run the following comand where you have swapped `USERNAME` with your username in a power shell
