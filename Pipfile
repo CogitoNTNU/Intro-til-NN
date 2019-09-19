@@ -11,6 +11,7 @@ matplotlib = "*"
 h5py = "*"
 jupyter = "*"
 jupyterlab = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
